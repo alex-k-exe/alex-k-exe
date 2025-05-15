@@ -23,7 +23,7 @@
 
 ###
 
-Please check out my personal website at [alexkammin.com](alexkammin.com) or my repos
+Please check out my personal website at [alexkammin.com](https://alexkammin.com/) or my repos
 
 I don't really care if I'm a fullstack/frontend/backend developer, and more focused on just making stuff
 
