@@ -27,4 +27,4 @@ Please check out my personal website at [alexkammin.com](https://alexkammin.com/
 
 I don't really care if I'm a fullstack/frontend/backend developer, and more focused on just making stuff
 
-Hopefully by the time someone is reading this, I've uploaded a few Instagram posts for creative coding viusalisations of tv shows and movies
+Hopefully by the time someone reads this, I've uploaded a few Instagram posts for creative coding viusalisations of tv shows and movies
