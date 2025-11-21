@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alex and I'm a weird nerd from Australia</h2>
+<h2 align="left">Hi 👋! My name is Alex</h2>
 
 ###
 
